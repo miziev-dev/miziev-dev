@@ -45,19 +45,11 @@
 
 ---
 
-## 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miziev-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miziev-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 📫 Контакты
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasidmiziev279@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/miziev_dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mzvw_01)
 
 ---
 
