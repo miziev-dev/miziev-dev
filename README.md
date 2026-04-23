@@ -32,7 +32,7 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [🔬 pendulum-lab-automation](https://github.com/miziev-dev/pendulum-lab-automation) | Автоматизация лабораторного стенда для исследования математического маятника | Python, Tkinter, Matplotlib, C++ |
+||
 
 ---
 
